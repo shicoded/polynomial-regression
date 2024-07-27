@@ -1,6 +1,26 @@
 # polynomial-regression
+This repository demonstrates how polynomial regression works using both a simple example with synthetic data and a real-world example for training and testing a polynomial regression model. It contains examples of generating quadratic data, transforming the data into polynomial features, fitting a linear regression model, and visualizing the results using Python, NumPy, and scikit-learn.
+*****
+## Table of Contents
+- [Introduction](#introduction)
+- [Overview](#overview)
+- [Dataset](#dataset)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Results](#results)
+- [Conclusion](#conclusion)
+- [License](#license)
+*****
+  ## Overview
 
+Polynomial regression is a type of regression analysis where the relationship between the independent variable `X` and the dependent variable `Y` is modeled as an nth-degree polynomial. This repository includes:
+1. A simple example to explain polynomial regression with synthetic data.
+2. A real-world example to train and test a polynomial regression model.
 
+******
+
+## Project Structure]
 '''1. Visual Inspection
 Plotting the data can give you an initial idea of whether a linear or non-linear model is appropriate.
 

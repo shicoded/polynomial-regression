@@ -85,6 +85,10 @@ By addressing these points, you ensure a thorough evaluation of whether Polynomi
 ## Conclusion
 we have two sample. in this two sample have two figure of them for show data.
 we show before training to get the scatter need to use polynomial. we show these figure in below.
+![image](https://github.com/user-attachments/assets/a3046daf-814d-4d19-948f-52d495936a53)
+
+![image](https://github.com/user-attachments/assets/bac6251f-fd32-41ec-beda-caa690d6850d)
+![image](https://github.com/user-attachments/assets/b07b21b5-c814-49d1-880b-bb841b3420ea)
 
 
 **************

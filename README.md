@@ -89,9 +89,9 @@ we show before training to get the scatter need to use polynomial. we show these
 ![image](https://github.com/user-attachments/assets/c8d3f296-ca07-4cc8-8549-01db8d8c0f97)
 
 
-|![image](https://github.com/user-attachments/assets/a3046daf-814d-4d19-948f-52d495936a53)|
-|![image](https://github.com/user-attachments/assets/bac6251f-fd32-41ec-beda-caa690d6850d)|
-|![image](https://github.com/user-attachments/assets/b07b21b5-c814-49d1-880b-bb841b3420ea)|
+![image](https://github.com/user-attachments/assets/a3046daf-814d-4d19-948f-52d495936a53)
+![image](https://github.com/user-attachments/assets/bac6251f-fd32-41ec-beda-caa690d6850d)
+![image](https://github.com/user-attachments/assets/b07b21b5-c814-49d1-880b-bb841b3420ea)
 
 
 **************

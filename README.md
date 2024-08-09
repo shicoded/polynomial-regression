@@ -7,7 +7,6 @@ This repository demonstrates how polynomial regression works using both a simple
 - [Dataset](#dataset)
 - [Project Structure](#project-structure)
 - [Conclusion](#conclusion)
-- [Results](#results)
 - [Installation](#installation)
 - [License](#license)
 - [Contact](#contact)

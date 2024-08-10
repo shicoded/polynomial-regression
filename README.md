@@ -124,6 +124,6 @@ You can use development environments like VS Code, Jupyter Notebook, or Google C
 
 ********
 ## Contact
-for question and contact me to  you can email.me
-12shim73@gamil.com
-or text me in Linkedin 
+For any questions or to get in touch, feel free to contact me via email at 12shim73@gmail.com or connect with me on LinkedIn: ![Shima Soleymanipour](linkedin.com/in/shima-soleymanipour).
+
+

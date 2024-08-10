@@ -86,13 +86,23 @@ By addressing these points, you ensure a thorough evaluation of whether Polynomi
 we have two sample. in this two sample have two figure of them for show data.
 we show before training to get the scatter need to use polynomial. we show these figure in below.
 
+**first figure:**
+
+The figure shows a scatter plot of synthetic data that appears to have a quadratic relationship between the variables. Each data point forms a pattern that is clearly not linear, which suggests that a simple linear model would not be appropriate for capturing the underlying relationship in the data. Instead, a polynomial model would be more suitable.
+
 ![image](https://github.com/user-attachments/assets/c8d3f296-ca07-4cc8-8549-01db8d8c0f97)
 
+**scoand figure:**
+
+The subsequent figures illustrate the relationship between geographical features (latitude and longitude) and house prices. These scatter plots reveal non-linear relationships, evidenced by the curved patterns and clusters of data points. This non-linearity suggests that a polynomial model would be more appropriate to capture the complexities in the data, leading to better performance in predicting house prices.
 
 ![image](https://github.com/user-attachments/assets/a3046daf-814d-4d19-948f-52d495936a53)
 ![image](https://github.com/user-attachments/assets/bac6251f-fd32-41ec-beda-caa690d6850d)
 ![image](https://github.com/user-attachments/assets/b07b21b5-c814-49d1-880b-bb841b3420ea)
 
+**In result:**
+
+These scatter plots highlight the need for a polynomial model, specifically a second-degree polynomial regression, to effectively model the observed data. This approach is crucial for accurately capturing the non-linear relationships and underlying patterns that a linear model would miss. Employing a polynomial regression model ensures better predictive accuracy and a deeper understanding of the true nature of the data.
 
 **************
 ## Installation
@@ -114,4 +124,6 @@ You can use development environments like VS Code, Jupyter Notebook, or Google C
 
 ********
 ## Contact
-
+for question and contact me to  you can email.me
+12shim73@gamil.com
+or text me in Linkedin 

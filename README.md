@@ -18,7 +18,8 @@ Polynomial Regression is a type of regression analysis where the relationship be
 In this repository, to better understand polynomial regression, we provide:
 
 A simple example using synthetic data to explain the concept of polynomial regression.
-A real-world example where we train and test a polynomial regression model.
+
+A real-world example where we train and test a polynomial regression model for house price prediction, utilizing the data provided above.
 
 ******
 

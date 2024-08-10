@@ -13,9 +13,12 @@ This repository demonstrates how polynomial regression works using both a simple
 *****
   ## Overview
 
-Polynomial regression is a type of regression analysis where the relationship between the independent variable `X` and the dependent variable `Y` is modeled as an nth-degree polynomial. This repository includes:
-1. A simple example to explain polynomial regression with synthetic data.
-2. A real-world example to train and test a polynomial regression model.
+Polynomial Regression is a type of regression analysis where the relationship between the independent variable `X` and the dependent variable `𝑌` is modeled as an nth-degree polynomial.
+
+In this repository, to better understand polynomial regression, we provide:
+
+A simple example using synthetic data to explain the concept of polynomial regression.
+A real-world example where we train and test a polynomial regression model.
 
 ******
 

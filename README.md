@@ -104,6 +104,10 @@ The subsequent figures illustrate the relationship between geographical features
 
 These scatter plots highlight the need for a polynomial model, specifically a second-degree polynomial regression, to effectively model the observed data. This approach is crucial for accurately capturing the non-linear relationships and underlying patterns that a linear model would miss. Employing a polynomial regression model ensures better predictive accuracy and a deeper understanding of the true nature of the data.
 
+- **I’ve only reviewed the first method in the above section. I encourage you to explore the other methods to gain more insights from the data. This will help you make a more informed decision about which algorithm or model to use.**
+
+ 
+
 **************
 ## Installation
 
@@ -124,9 +128,6 @@ You can use development environments like VS Code, Jupyter Notebook, or Google C
 
 ********
 ## Contact
-For any questions or to get in touch, feel free to contact me via email at 12shim73@gmail.com or connect with me on LinkedIn:
-
-[Shima Soleymanipour](https://linkedin.com/in/shima-soleymanipour)
-.
+For any questions or to get in touch, contact me via email at 12shim73@gmail.com or connect with me on LinkedIn: [Shima Soleymanipour](https://linkedin.com/in/shima-soleymanipour).
 
 

@@ -83,7 +83,7 @@ By addressing these points, you ensure a thorough evaluation of whether Polynomi
 
 *********
 ## Conclusion
-we have two sample. in this two sample have two figure of them for show data.
+We have two sample. in this two sample have two figure of them for show data.
 we show before training to get the scatter need to use polynomial. we show these figure in below.
 
 **first figure:**
@@ -128,6 +128,6 @@ You can use development environments like VS Code, Jupyter Notebook, or Google C
 
 ********
 ## Contact
-For any questions or to get in touch, contact me via email at 12shim73@gmail.com or connect with me on LinkedIn: [Shima Soleymanipour](https://linkedin.com/in/shima-soleymanipour).
+For any questions or to get in touch, feel free to contact me via email at 12shim73@gmail.com or on LinkedIn: [Shima Soleymanipour](https://linkedin.com/in/shima-soleymanipour).
 
 
